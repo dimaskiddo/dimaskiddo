@@ -1,4 +1,4 @@
-## Helo There 👋 Welcome to My GitHub Repositories
+## Hello There 👋 Welcome to My GitHub Repositories
 
 **Let Me Introduce My Self**
 

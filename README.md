@@ -10,3 +10,5 @@ My name is **Dimas Restu Hidayanto**, here in my github repositories you can fin
 - 📬 You can reach me by tweeting or direct message to [@dimaskiddo](https://twitter.com/dimaskiddo) or mail me at [here](mailto:dimas.restu@student.upi.edu)
 
 Let me know if you like my repositories or gist by giving it ⭐️ or support me at [Trakteer.ID](https://trakteer.id/dimaskiddo/tip), last word keep learning and sharing
+
+<a href="https://trakteer.id/dimaskiddo/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>

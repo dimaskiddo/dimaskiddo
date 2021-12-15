@@ -6,8 +6,9 @@ My name is **Dimas Restu Hidayanto**, here in my github repositories you can fin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaskiddo&layout=compact)
 
-📙 Some notes and cheatsheets is also available for you to read in [my gist](https://gist.github.com/dimaskiddo)
-📬 You can reach me by mentioning or direct message [@dimaskiddo](https://twitter.com/dimaskiddo) or just by [mail](mailto:dimas.restu@student.upi.edu)
+- 📙 Some notes and cheatsheets is also available for you to read in [my gist](https://gist.github.com/dimaskiddo)
+
+- 📬 You can reach me by mentioning or direct message [@dimaskiddo](https://twitter.com/dimaskiddo) or just by [mail](mailto:dimas.restu@student.upi.edu)
 
 Let me know if you like my repositories or gist by giving it ⭐️ or support me at [Trakteer.ID](https://trakteer.id/dimaskiddo/tip), last word keep learning and sharing
 

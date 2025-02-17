@@ -4,9 +4,9 @@
 
 My name is **Dimas Restu Hidayanto**, here in my github repositories you can find some repositories that may be useful for the others. My repositories is mainly related with my hobby or current works as Cloud Engineer and DevOps.
 
-- 💾 Self-Hosted Git Repository in [https://git.dimaskiddo.my.id/](https://git.dimaskiddo.my.id/dimaskiddo)
+- 💾 Self-Hosted Git Repository in [https://git.dimaskiddo.my.id](https://git.dimaskiddo.my.id/dimaskiddo)
 
-- 📙 Self-Hosting Gist Repository in [https://gist.dimaskiddo.my.id/](https://gist.dimaskiddo.my.id/dimaskiddo)
+- 📙 Self-Hosting Gist Repository in [https://gist.dimaskiddo.my.id](https://gist.dimaskiddo.my.id/dimaskiddo)
 
 - 📬 You can reach me by mailing me at [drh.dimasrestu@gmail.com](mailto:drh.dimasrestu@gmail.com)
 
